@@ -1,4 +1,4 @@
-/* How-to-Showing-WordPress-widget */
+/* How-to-Showing-WordPress-widget */ 
 
 function desktop_register_widgets_init() {
     register_sidebar( array(
