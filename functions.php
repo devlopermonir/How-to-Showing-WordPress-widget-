@@ -1,3 +1,5 @@
+/* show widget */
+
 function desktop_register_widgets_init() { 
     register_sidebar( array(
         'name'          => __( 'Main Sidebar', 'textdomain' ),
